@@ -1,3 +1,4 @@
+# 一份用来通过图像生成点云的代码，但是这个代码是串行的，所以很慢，而且点云的密度也不够，所以不太适合用来做实时的点云生成，仅供参考
 import pybullet as p
 import math
 import numpy as np

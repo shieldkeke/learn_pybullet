@@ -1,3 +1,4 @@
+#一份pybullet的交互式调试代码，可以用来调试相机参数，有两个视角
 import numpy as np
 import matplotlib.pyplot as plt
 import pybullet as pb
